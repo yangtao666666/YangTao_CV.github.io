@@ -1,6 +1,34 @@
 = Fengyan Yang
 [./CV_FengyanYang.pdf My Resume]
-== Education Experience
+
+
+== Education
+
+School of Physics, Nankai University, Tianjin China
+
+BACHELOR OF SCIENCE (EXPECTED)
+ - Major: Physics. ( Boling Class, an honored program, the Pilot Scheme of Talent Training in Basic Sciences )
+ - GPA: 3.94/4 ( by WES iGPA Calculator), 91.60/100)
+ - Ranking: 3/174 in School of Physics (with in top 2%), 3/22 in Boling Class
+ - Main Courses: Theoretical Mechanics (90), Electrodynamics (94), Quantum Mechanics II (94), Mathematical Physics
+(95), Basic electronics(97), Solid State Physics (90), Nonlinear Optics (92), Modern applied optics (99), Data Structure
+and Algorithms (95), Python language and machine learning (94), Scientific Research III (96), Mechanics (100), Linear
+Algebra (99). etc
+
 
 == Research Experience
 
+=== Washington University in St.Louis
+*RESEARCH INTERN* June 24, 2019 - September 16, 2019
+Advisor: Lan Yang, professor of Electrical and Systems Engineering
+
+Project 1: made up a bio-compatible mininature laser out of doped silk fibroin
+
+=== University of Arizona Tucson, Arizona, U.S.A
+*RESEARCH INTERN* June 24, 2018 - September 24, 2018
+Advisor: Zhenshen Zhang, assisitant professor of Optical Science, joint appointed Material Science an Engineering, joint appointed in Optical Science
+
+Project: Develop a software package for the generation of micro-resonator based frequency combs.
+- Developed MATLAB-COMSOL interface to calculate material waveguide dispersion
+- Simulated frequency-domain nonlinear interactions in ring resonators by solving coupling mode equations.
+- simulated time-domain nonlinear interactions in ring resonators by solving Lugiato–Lefever equation
