@@ -1,6 +1,11 @@
 = Fengyan Yang
-[./CV_FengyanYang.pdf My Resume]
 
+== Contact
+You can find my [./CV_FengyanYang.pdf resume] here
+
+E-mail: [nkyfy@mail.nankai.edu.cn]
+
+Phone: (+86) 15122771761
 
 == Education
 
@@ -19,23 +24,40 @@ Algebra (99). etc
 == Research Experience
 
 === Washington University in St.Louis
-*RESEARCH INTERN* June 24, 2019 - September 16, 2019
-Advisor: Lan Yang, professor of Electrical and Systems Engineering
+*RESEARCH INTERN*,  June 24, 2019 - September 16, 2019, St.Louis, U.S.
 
-Project 1: made up a bio-compatible mininature laser out of doped silk fibroin
+Advisor: [https://www.ese.wustl.edu/~yang/ Lan Yang], Professor of Electrical and Systems Engineering
+. Project 1: made up a bio-compatible mininature laser out of doped silk fibroin
+. Project 2: Using higher order mode excited selectively by angle polished fiber in microbubble resonator for sensing
+.. Pro1: Extracted silk fibroin from cocoons
+.. Pro1: Used silk fibroin solution doped with laser dye to build microbottle resonator
+.. Pro1: Built optical experimental setup to test the property of microbottle resonator
+.. Pro2: Simulated the optical field distribution in microbubble resonator with angle polished fiber
 
-=== University of Arizona Tucson, Arizona, U.S.A
-*RESEARCH INTERN* June 24, 2018 - September 24, 2018
-Advisor: Zhenshen Zhang, assisitant professor of Optical Science, joint appointed Material Science an Engineering, joint appointed in Optical Science
+=== University of Arizona
+*RESEARCH INTERN*,  June 24, 2018 - September 24, 2018, Tucson, U.S.
 
-Project: Develop a software package for the generation of micro-resonator based frequency combs.
-- Developed MATLAB-COMSOL interface to calculate material waveguide dispersion
-- Simulated frequency-domain nonlinear interactions in ring resonators by solving coupling mode equations.
-- simulated time-domain nonlinear interactions in ring resonators by solving Lugiato–Lefever equation
+Advisor: [https://quantum.lab.arizona.edu/ Zhenshen Zhang], Assistant Professor of Optical Science, joint appointed in Material Science and Engineering
+. Project: Develop a software package for the generation of micro-resonator based frequency combs.
+.. Developed MATLAB-COMSOL interface to calculate material waveguide dispersion
+.. Simulated frequency-domain nonlinear interactions in ring resonators by solving coupling mode equations
+.. Simulated time-domain nonlinear interactions in ring resonators by solving Lugiato–Lefever equation
+
+My work received excellent feedback. Evaluation from my advisor can be find [./INTERN_EVALUATION_FENGYAN.pdf here].
+
+Poster about my research work is posted on campus conference and can be seen [./COMB_POSTER.pdf here].
 
 
-== Links
-[./INTERN_EVALUATION_FENGYAN.pdf The evaluation form]
+=== Nankai University
+*Research Assistant*, September 2017 - March 2019, Tianjin, China
 
-[./COMB_POSTER.pdf My poster]
+Advisor: [http://physics.nankai.edu.cn/wlxyen/2017/1120/c7772a82954/page.htm Yi Hu], Associate Professor in School of Physics
+
+. Project: Calculated band structure of topological photonic crystals and investigated nonlinearity induced topological
+phase transition.
+.. Learned FDTD algorithm and commonly used computational methods in physics, including Runge-Kutta, Monte
+Carlo, and etc.
+.. Computed band structure of graphene and photonic crystals using Comsol and Matlab
+Investigated topological phase transition induced by nonlinear coupling coefficient
+
 
